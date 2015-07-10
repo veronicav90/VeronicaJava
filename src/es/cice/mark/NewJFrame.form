@@ -43,7 +43,7 @@
   <SubComponents>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="ESTA ES UNA MODIFICACI&#xd3;N EN EL PROYECTO DE MARK"/>
+        <Property name="text" type="java.lang.String" value="ESTA ES UNA MODIFICACI&#xd3;N EN EL PROYECTO DE VER&#xd3;NICA"/>
       </Properties>
     </Component>
   </SubComponents>
