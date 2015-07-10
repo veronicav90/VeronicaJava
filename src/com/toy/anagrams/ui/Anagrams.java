@@ -189,7 +189,7 @@ public class Anagrams extends JFrame {
         buttonsPanel.add(guessButton, gridBagConstraints);
 
         nextTrial.setMnemonic('N');
-        nextTrial.setText("Old Word");
+        nextTrial.setText("Carlos Old Word");
         nextTrial.setToolTipText("Fetch a new word.");
         nextTrial.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
